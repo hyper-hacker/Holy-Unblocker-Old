@@ -1,4 +1,4 @@
-<img align="left" width="70px" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png"></img>
+<img align="left" width="70px" src="https://raw.githubusercontent.com/hyper-hacker/Holy-Unblocker-Old/master/views/assets/img/icon.png"></img>
 # Holy Unblocker
 
 Holy Unblocker, an official flagship Titanium Network site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
@@ -31,18 +31,18 @@ Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</
 
 Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
 
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
+<img src="https://raw.githubusercontent.com/hyper-hacker/Holy-Unblocker-Old/master/views/assets/img/preview/hu-v5.0.0-preview.png"></img>
 
 ### Deploy Holy Unblocker
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Ftitaniumnetwork-dev%2FHoly-Unblocker)
 
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/titaniumnetwork-dev/Holy-Unblocker)
-[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/titaniumnetwork-dev/Holy-Unblocker)
-[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/titaniumnetwork-dev/Holy-Unblocker)
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/hyper-hacker/Holy-Unblocker-Old)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/hyper-hacker/Holy-Unblocker-Old)
+[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/hyper-hacker/Holy-Unblocker-Old)
+[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/hyper-hacker/Holy-Unblocker-Old)
+[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/hyper-hacker/Holy-Unblocker-Old)
+[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/hyper-hacker/Holy-Unblocker-Old)
+[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/hyper-hacker/Holy-Unblocker-Old)
 
 ## Table of contents:
 
@@ -66,7 +66,7 @@ Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the 
 Either use the button above to deploy to Heroku or do the below:
 
 ```
-git clone https://github.com/titaniumnetwork-dev/Holy-Unblocker.git
+git clone https://github.com/hyper-hacker/Holy-Unblocker-Old.git
 
 cd Holy-Unblocker
 
@@ -142,7 +142,7 @@ Out of the list of hosting providers Heroku and NodeClusters rank first as a pre
 After you have selected a decent VPS, use Cloudflare for the DNS records for both the site and the subdomains for the proxies.
 
 This is an example of DNS records involving Heroku. Self-hosting will require `A records` preferably.
-<img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/dnssetup.png" width="500"></img>
+<img src="https://raw.githubusercontent.com/hyper-hacker/Holy-Unblocker-Old/master/views/assets/img/dnssetup.png" width="500"></img>
 
 - `@` and `www.deepsoil.ml` are being used for the local Corrosion proxy.
 - `p.deepsoil.ml` is being used for Palladium.
@@ -189,7 +189,7 @@ Preferably if you have your own device use Visual Studio Code. Pretty much the b
 Not going to go too in depth with this part but first fork this repository. The clone it locally through a Terminal of some sort depending on what OS you are on. Make sure you navigate to the folder you want to set this up in.
 
 ```
-git clone https://github.com/titaniumnetwork-dev/Holy-Unblocker.git
+git clone https://github.com/hyper-hacker/Holy-Unblocker-Old.git
 
 cd Holy-Unblocker
 
@@ -277,3 +277,5 @@ This project currently uses Corrosion, Womginx, and Palladium, linked below.
 - <a href="https://soyoustart.com/">SoYouStart / OVH</a> (Hosting Provider)
 
 Thanks :D
+
+
